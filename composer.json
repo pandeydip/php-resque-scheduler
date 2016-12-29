@@ -15,7 +15,7 @@
 		}
 	},
 	"repositories": [
-		{ "type": "git", "url": "https://github.com/chrisboulton/php-resque" }
+		{ "type": "git", "url": "https://github.com/pandeydip/php-resque" }
 	],
 	"require": {
 		"chrisboulton/php-resque": "1.2.x"
